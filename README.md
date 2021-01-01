@@ -66,3 +66,20 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<h1>A front-end app to navigate the Star Wars API</h1>
+
+Functionalities:
+- [x] Create a dropdown menu that allows the user to choose the resource they are looking for
+- [x] Next to the dropdown menu, create an input field that accepts a number that will be used to query a specific id.
+- [x] Add a button to allow them to send a request to the API.
+- [x] On submission, navigate to the appropriate route and render at least 4 attributes for that specific resource.
+- [x] If the request is unsuccessful, create an error message that says "These aren't the droids you're looking for" with a picture of Obi-Wan Kenobi.
+- [x] If the resource is "people", output the name of the character's homeworld (you may need to make another request)
+- [x] If the resource is "people" render a link to their homeworld (a specific planet). It's okay if the link text is simply "homeworld."
+- [x]  Add additional resources aside from people and planets to the dropdown.
+
+![](./images/1.png)
+
+![](./images/2.png)
+
+![](./images/3.png)
